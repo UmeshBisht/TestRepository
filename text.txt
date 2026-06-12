@@ -1,2 +1,4 @@
 first commit
 new commit
+feature 1
+feature 2
